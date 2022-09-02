@@ -4,7 +4,7 @@ function enough_space(m_size, f_x, f_y){
         document.write("Ram can be save the file")
     }
     else{
-        document.write("Ram can not be save the file \n\becouse the file size is larger then the available space of memory");
+        document.write("Ram can not be save the file \n\ becouse the file size is larger then the available space of memory");
     }
 
 }
