@@ -2,7 +2,7 @@ let average_dolphine;
 let avrage_koalsa;
 const dolphin =(d_m1,d_m2,d_m3)=>{
  average_dolphine=(d_m1+d_m2+d_m3)/3;
-//  document.write(`the avrage value of dolphin${average_dolphine} \n\ `);
+//  ndocument.write(`the avrage value of dolphin${average_dolphine} \n\ `);
  return average_dolphine;
 }
 const koalas =(k_m1,k_m2,k_m3)=>{

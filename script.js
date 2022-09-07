@@ -17,3 +17,13 @@ let petty=4;
 let bun =3;
 burger(petty,bun);
 // document.write(va);
+// const car= {
+// color: "red",
+// brand : "swift",
+// speed: function () {
+//      console.log(this.color);
+// }
+// }
+// let result=car.speed();
+// console.log(result);
+
