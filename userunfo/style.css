@@ -4,10 +4,7 @@
     font-weight: bold;
    
 }
-#table{
-    display: flex;
-    flex-direction: row;
-}
+
 .outer_bordr{
     background: white;
     border: 2px solid;
@@ -16,15 +13,11 @@
 
 }
 .info_txt{
-    background:white;
+   
     height: 40px;
     width: 550px;
- /* margin-top: 10; */
- margin: 10 auto ;
- display: flex;
- flex-direction: row;
- justify-content: space-between;
- align-items: center;
+ margin-top: 10; 
+  margin: 10 auto ;
  
 }
 .age{
