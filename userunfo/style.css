@@ -1,0 +1,32 @@
+#header{
+    text-align: center;
+    font-size: 20;
+    font-weight: bold;
+   
+}
+#table{
+    display: flex;
+    flex-direction: row;
+}
+.outer_bordr{
+    background: white;
+    border: 2px solid;
+    height: 500px;
+    width: 600px;
+
+}
+.info_txt{
+    background:white;
+    height: 40px;
+    width: 550px;
+ /* margin-top: 10; */
+ margin: 10 auto ;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+ 
+}
+.age{
+text-align: center;
+}
